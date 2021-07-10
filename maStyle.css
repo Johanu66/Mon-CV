@@ -42,3 +42,6 @@ body{
 .smallSize{
   font-size: 0.8em;
 }
+a:hover{
+  text-decoration: none;
+}

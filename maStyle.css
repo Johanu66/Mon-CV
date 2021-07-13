@@ -42,6 +42,8 @@ body{
 .smallSize{
   font-size: 0.8em;
 }
-a:hover{
-  text-decoration: none;
+@media screen and (max-width: 992px) {
+  body{
+    font-size: 1.5em;
+  }
 }

@@ -43,6 +43,9 @@ svg{
     width: 20px;
     height: 20px;
 }
+h3{
+  font-size: 1.3rem;
+}
 @media screen and (max-width: 992px) {
   body{
     font-size: 2em;
@@ -53,9 +56,6 @@ svg{
   }
   h2{
     font-size: 1.9em;
-  }
-  h3{
-    font-size: 1.8em;
   }
   h5{
     font-size: 1.6em;
